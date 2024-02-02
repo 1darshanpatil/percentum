@@ -2,7 +2,7 @@
 
 
 
-# percentum - A CLI Application.
+# Percentum
 
 ---
 
