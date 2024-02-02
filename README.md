@@ -19,7 +19,7 @@ To use **percentum**, follow these simple steps:
 1. Install the package:
 
    ```bash
-   pip install percentum
+   $ pip install percentum
    ```
 2. Usage
     ```bash
